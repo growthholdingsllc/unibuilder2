@@ -1,0 +1,54 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+/** 
+ * Mail FetchClass
+ * 
+ * @package: MailFetch
+ * @subpackage: MailFetch
+ * @category: MailFetch
+ * @author: Baskar
+ * @createdon(DD-MM-YYYY): 24-04-2015 
+*/
+class Mail_fetch extends UNI_Controller {
+	/**
+	 * @property: $module
+	 * @access: public
+	 */
+	public $module = '';
+	/**
+	 * @constructor
+	 */
+	public function __construct()
+  { 
+		parent::__construct();
+		$this->load->model(array('Mod_message','Mod_general_value','Mod_timezone'));
+		$this->module = 'mail_fetch';
+  }
+	
+	/** 
+	* Process the mail and update the same in the database
+	* 
+	* @method: index 
+	* @access: public 
+	* @param:  
+	* @return: array 
+	* @url : bWFpbF9mZXRjaC9pbmRleA--
+	*/
+	public function index()
+	{	
+		// $this->write_db->query("INSERT INTO `ub_comments` (`ub_comments_id`, `builder_id`, `project_id`, `module_name`, `module_pk_id`, `comments`, `show_sub`, `show_owner`, `status`, `created_on`, `created_by`, `modified_on`, `modified_by`) VALUES (NULL, '200', '100', 'gopa', '20', 'Test by gk', 'No', 'No', 'abc', '2015-08-06 00:00:00', '1', '2015-08-06 00:00:00', '1')");
+		 /* Read the message from STDIN */
+		 $file = fopen("/etc/aliases","a");
+			echo fwrite($file,"gopa12345:         incomingmails");
+			fclose($file);
+		exit;
+		
+		/* Script End */
+		// $myfile = fopen("/var/www/ub_documents/fetch_mail/testfile.txt", "w");
+		$this->Mod_message->save_msg_to_db = TRUE;
+		$this->Mod_message->process_email();
+		
+		echo $this->Mod_message->directory;
+		echo "encrypt : ". $this->crypt->encrypt('mail_fetch/index/');
+		echo "<br>decrypt : ". $this->crypt->decrypt('bWFpbF9mZXRjaC9pbmRleC8-');
+	}
+}

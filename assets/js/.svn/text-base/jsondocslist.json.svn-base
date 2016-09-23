@@ -1,0 +1,31 @@
+{
+  "data": [
+    { 
+        
+      "doc_dir": "0",          
+      "Name": "Attached Documents",                
+      "Contains": [
+		  {			  
+			  "doc_dir_con":"4",			
+			  "doc_fol_con":"4"
+		  }
+	  ],
+      "TotalSize": "177kb",	  
+      "LastUpdated": "11-19-2014 10.35 pm"
+      
+    },
+	{   
+	  "doc_dir": "1",          
+      "Name": "Test Folder",          	 
+     "Contains": [
+		  {			  
+			  "doc_dir_con":"4",			
+			  "doc_fol_con":"4"
+		  }
+	  ],
+      "TotalSize": "177kb",	  
+      "LastUpdated": "11-19-2014 10.35 pm"
+      
+    }
+  ]
+}

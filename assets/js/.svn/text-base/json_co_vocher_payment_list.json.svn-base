@@ -1,0 +1,25 @@
+{
+  "data": [
+    {      
+      "cost_code": "Furnishing",
+      "original": "$10000",
+      "paid": "$500",      
+      "outstanding": "$500",      
+      "payment": "-"      
+    },
+	{      
+      "cost_code": "Electical",
+      "original": "$10000",
+      "paid": "$500",      
+      "outstanding": "$500",      
+      "payment": "-"       
+    },
+	{      
+      "cost_code": "Furnishing",
+      "original": "$10000",
+      "paid": "$500",      
+      "outstanding": "$500",      
+      "payment": "-"      
+    }
+  ]
+}

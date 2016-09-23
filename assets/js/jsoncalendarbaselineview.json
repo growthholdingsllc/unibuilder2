@@ -1,0 +1,92 @@
+{
+	"data": [
+	{
+	 "Status": "<input type=\"checkbox\" />",	
+	 "Title": "Abc",	
+	 "BaseDur": "(1d) 1d",	
+	 "BaseStartDate": "(10-30-2014)10-8-2014",	
+	 "BaseEndDate": "(10-30-2014)10-8-2014",	
+	 "DirectShifts": "1",	
+	 "DurationChange": "-",	
+	 "OverallSlip": "-3d",	
+	 "AssignedTo": "N/A"
+	},
+	{
+	 "Status": "",	
+	 "Title": "Abc",	
+	 "BaseDur": "(1d) 1d",	
+	 "BaseStartDate": "(10-30-2014)10-8-2014",	
+	 "BaseEndDate": "(10-30-2014)10-8-2014",	
+	 "DirectShifts": "1",	
+	 "DurationChange": "-",	
+	 "OverallSlip": "-3d",	
+	 "AssignedTo": "N/A"
+	},
+	{
+	 "Status": "",	
+	 "Title": "Abc",	
+	 "BaseDur": "(1d) 1d",	
+	 "BaseStartDate": "(10-30-2014)10-8-2014",	
+	 "BaseEndDate": "(10-30-2014)10-8-2014",	
+	 "DirectShifts": "1",	
+	 "DurationChange": "-",	
+	 "OverallSlip": "-3d",	
+	 "AssignedTo": "N/A"
+	},
+	{
+	 "Status": "",	
+	 "Title": "Abc",	
+	 "BaseDur": "(1d) 1d",	
+	 "BaseStartDate": "(10-30-2014)10-8-2014",	
+	 "BaseEndDate": "(10-30-2014)10-8-2014",	
+	 "DirectShifts": "1",	
+	 "DurationChange": "-",	
+	 "OverallSlip": "-3d",	
+	 "AssignedTo": "N/A"
+	},
+	{
+	 "Status": "",	
+	 "Title": "Abc",	
+	 "BaseDur": "(1d) 1d",	
+	 "BaseStartDate": "(10-30-2014)10-8-2014",	
+	 "BaseEndDate": "(10-30-2014)10-8-2014",	
+	 "DirectShifts": "1",	
+	 "DurationChange": "-",	
+	 "OverallSlip": "-3d",	
+	 "AssignedTo": "N/A"
+	},
+	{
+	 "Status": "",	
+	 "Title": "Abc",	
+	 "BaseDur": "(1d) 1d",	
+	 "BaseStartDate": "(10-30-2014)10-8-2014",	
+	 "BaseEndDate": "(10-30-2014)10-8-2014",	
+	 "DirectShifts": "1",	
+	 "DurationChange": "-",	
+	 "OverallSlip": "-3d",	
+	 "AssignedTo": "N/A"
+	},
+	{
+	 "Status": "",	
+	 "Title": "Abc",	
+	 "BaseDur": "(1d) 1d",	
+	 "BaseStartDate": "(10-30-2014)10-8-2014",	
+	 "BaseEndDate": "(10-30-2014)10-8-2014",	
+	 "DirectShifts": "1",	
+	 "DurationChange": "-",	
+	 "OverallSlip": "-3d",	
+	 "AssignedTo": "N/A"
+	},
+	{
+	 "Status": "",	
+	 "Title": "Abc",	
+	 "BaseDur": "(1d) 1d",	
+	 "BaseStartDate": "(10-30-2014)10-8-2014",	
+	 "BaseEndDate": "(10-30-2014)10-8-2014",	
+	 "DirectShifts": "1",	
+	 "DurationChange": "-",	
+	 "OverallSlip": "-3d",	
+	 "AssignedTo": "N/A"
+	}
+	]
+}

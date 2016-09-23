@@ -1,0 +1,23 @@
+{
+  "data": [
+    { 
+                 
+      "Name": "PO and Change Orders",                
+      "Contains": "4",
+      "TotalSize": "177kb",	  
+      "LastUpdated": "11-19-2014 10.35 pm"      
+    },
+	{   
+	  "Name": "Bid Packages",                
+      "Contains": "4",
+      "TotalSize": "7kb",	  
+      "LastUpdated": "11-19-2014 10.35 pm"      
+    },
+	{   
+	  "Name": "Message Attachments",                
+      "Contains": "4",
+      "TotalSize": "1kb",	  
+      "LastUpdated": "11-19-2014 10.35 pm"      
+    }
+  ]
+}

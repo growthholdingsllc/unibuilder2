@@ -1,0 +1,64 @@
+{
+    "data": [
+        [
+            "UB001",
+            "ABC LLP",
+            "25/06/2015 to 28/05/2015",
+            "Plan A",
+            "Auto",
+			"<span class='text-success'>Success</span>",
+            "$2,000.00",
+			"ABC1234567890",
+			"3",
+			"Payment Success"
+        ],
+        [
+            "UB001",
+            "ABC LLP",
+            "25/06/2015 to 28/05/2015",
+            "Plan A",
+            "Auto",
+			"<span class='text-success'>Success</span>",
+            "$2,000.00",
+			"ABC1234567890",
+			"3",
+			"Payment Success"
+        ],
+		        [
+            "UB001",
+            "ABC LLP",
+            "25/06/2015 to 28/05/2015",
+            "Plan A",
+            "Auto",
+			"<span class='text-danger'>Failed</span>",
+            "$2,000.00",
+			"ABC1234567890",
+			"3",
+			"Bank Declined Transaction"
+        ],
+		        [
+            "UB001",
+            "ABC LLP",
+            "25/06/2015 to 28/05/2015",
+            "Plan A",
+            "Auto",
+			"<span class='text-danger'>Failed</span>",
+            "$2,000.00",
+			"ABC1234567890",
+			"3",
+			"Bank Declined Transaction"
+        ],
+		        [
+            "UB001",
+            "ABC LLP",
+            "25/06/2015 to 28/05/2015",
+            "Plan A",
+            "Auto",
+			"<span class='text-danger'>Failed</span>",
+            "$2,000.00",
+			"ABC1234567890",
+			"3",
+			"Bank Declined Transaction"
+        ]
+    ]
+}

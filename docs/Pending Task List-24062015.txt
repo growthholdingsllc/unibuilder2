@@ -1,0 +1,23 @@
+File upload document - Edit on payment request - 4PM
+Message file upload issue,
+Owner file upload - un comment and check
+Sub contractor issue -
+
+
+
+Owner dashboard image slider
+Baseline search - done SP checking
+
+--Bid sub contractor - File upload--
+
+Validation plan , budget
+
+Owner and sub view access list page in docs and  photos
+Payapp - Certificate insertion and display 
+PO/CO Limit check
+Voucher view - document list is pending (check calculation)
+
+Reminder scheduler - turned on
+-----------------------------------
+Thumb creation
+Preference check is implemented

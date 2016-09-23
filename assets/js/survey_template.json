@@ -1,0 +1,19 @@
+{
+  "data": [
+    {      
+      "survey_template_name": "Template1",
+      "tags": "Monthly",
+      "created_by": "John white"
+    },
+	{      
+      "survey_template_name": "Template2",
+      "tags": "Quarterly",
+      "created_by": "Tim Coote"
+    },
+	{      
+      "survey_template_name": "Template3",
+      "tags": "Yearly",
+      "created_by": "Raj"
+    }
+  ]
+}

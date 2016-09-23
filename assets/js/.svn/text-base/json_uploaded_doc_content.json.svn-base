@@ -1,0 +1,14 @@
+{
+  "data": [
+    {         
+      "file_name": "ABC",          
+      "size": "4kb",
+      "date": "06/06/2015"
+    },
+	{   
+	  "file_name": "DEF",          
+      "size": "4kb",
+      "date": "06/06/2015"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+file upload
+--------------
+choice - 70%
+Docs - everything done
+photo - issue fixed
+
+
+sub contractor edit - not done
+
+Payment request and make payment
+My Profile file upload
+PO/CO
+
+
+Owner image slider
+Estimate summary and Builder dashboard project summary 
+Payment display in uni admin
+Export issue - sathish
+Payapp certification - G3
+
+Thumb creation
+Message - listing of attachment and logic for attachment 
+Leads - preparing content array and attachment display
+
+Attachment for multiple users - Messages
+
+Budget Notification - to be implemented
+PO/CO Limit check
+Fetch Document from setup and display it in payment
+Fetch and thread
+Notification has to happen when an email comes to our server
+Hierarchy structuring of folders

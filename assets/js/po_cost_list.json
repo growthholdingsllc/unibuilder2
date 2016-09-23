@@ -1,0 +1,16 @@
+{
+	"data": [
+	{
+		"cost_code":"cost code 1",
+		"unit_cost":"$25",
+		"quantity":"4",		
+		"total":"$100"
+	},
+	{
+		"cost_code":"cost code 2",
+		"unit_cost":"$10",
+		"quantity":"5",		
+		"total":"$50"
+	}
+	]
+}

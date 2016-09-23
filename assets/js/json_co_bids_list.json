@@ -1,0 +1,16 @@
+{
+  "data": [
+    {      
+      "bid_name": "Bid1",
+      "date_copied": "04/08/2015 10.55 AM"    
+    },
+	{      
+      "bid_name": "Bid2",
+      "date_copied": "04/08/2015 10.55 AM"    
+    },
+	{      
+      "bid_name": "Bid3",
+      "date_copied": "04/08/2015 10.55 AM"    
+    }
+  ]
+}

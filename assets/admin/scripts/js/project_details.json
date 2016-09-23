@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "project_name": "45 Duncan St",
+      "address": "45 Duncan St Vegas",
+      "start_date": "1/05/2015",
+      "end_date": "4/05/2015",
+      "status": "Closed",
+      "actions": "enable"
+    },
+	{
+      "project_name": "36 Mary St",
+      "address": "36 Mary St Vegas",
+      "start_date": "1/05/2015",
+      "end_date": "4/05/2015",
+      "status": "In Progress",
+      "actions": "disable"
+    }	
+  ]
+}

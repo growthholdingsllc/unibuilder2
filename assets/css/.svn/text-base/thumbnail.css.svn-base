@@ -1,0 +1,25 @@
+.profile-avatar-wrap img{height: 140px;
+    width: 140px; margin: -2px -2px 0;}
+#page-wrap { width: 150px;height:150px;}
+div.upload {
+    width: 150px;
+    height: 150px;
+    background: #f00;
+    overflow: hidden;
+	position:absolute;
+	 margin: 5px 5px 0;	
+	 opacity: 0 !important;
+	
+}
+
+div.upload input {
+    display: block !important;
+    width: 150px !important;
+    height: 150px !important;
+    opacity: 0 !important;
+    overflow: hidden !important;
+}
+.profile-avatar-wrap{
+ border: 2px solid #ccc;
+ padding: 5px;
+}

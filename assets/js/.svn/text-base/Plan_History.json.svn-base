@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "plan_name": "Silver",
+      "cost_per_month": "$59.00",
+      "from": "1/05/2015",
+      "to": "Present"
+    },
+	{
+      "plan_name": "Gold",
+      "cost_per_month": "$99.00",
+      "from": "15/05/2015",
+      "to": "19/05/2015"
+    }	
+  ]
+}

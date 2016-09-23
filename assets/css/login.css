@@ -1,0 +1,247 @@
+* {
+	border: 0px;
+	outline: 0px !important;
+	margin: 0;
+	padding: 0
+}
+html {
+	position: relative;
+	min-height: 100%;
+}
+a, a:hover, a:focus {
+	text-decoration: none;
+}
+p, h4 {
+	color: #aab2b9;
+}
+body {
+	padding: 0px;
+	margin-bottom: 60px;
+	color: #000;
+	background: #f6f8f9;
+	font-size: 12px;
+}
+header {
+	background: #0775b4;
+	height: 22px;
+	width: 100%;
+}
+section {
+	padding: 0px 0px 20px;
+}
+small, .small {
+	font-size: 100%;
+}
+.uni_login {
+	background: url('../images/uni_new_sprite.png') no-repeat -120px -47px;
+	width: 14px;
+	height: 16px;
+}
+
+.uni_send_new {
+	background: url('../images/uni_new_sprite.png') no-repeat -261px -47px;
+	width: 18px;
+	height: 16px;
+}
+.btn-blue, .btn-blue:focus, .btn-blue:hover{
+	background:#0775b4;
+	color:#fff;
+	line-height: 17px;
+}
+.btn-gray, .btn-gray:focus, .btn-gray:hover{
+	background:#aaabaf;
+	color:#fff;
+	line-height: 17px;
+}
+.btn-green, .btn-green:focus, .btn-green:hover{
+	background:#55BB50;
+	color:#fff;
+	line-height: 18px;
+}
+.loadingDiv{	
+	z-index:9999;
+	width:100%;
+	height:100%;
+    opacity: 0.52;
+    filter: alpha(opacity=52); 
+	pointer-events: none;	
+}
+.loadingDiv:before{
+	content:'';
+	background: url(../images/loader.GIF) center no-repeat;
+	width:100%;
+	height:100%;
+	position:absolute;
+	z-index: 9999;
+}
+.error-form {
+	float: left;
+	margin: 25px 0px 0px;
+	width: 780px;
+	height: 300px;
+	border: 1px solid #d6e1e5;
+	background: #fff;
+	display: none;
+}
+.error-message {
+	position: absolute;
+	width: 780px;
+	display: none;
+}
+.error-form .error-message {
+	margin: 60px 0px 0px;
+	width: auto;
+}
+#resetForm {
+	display: none;
+}
+.alert {
+	margin: 40px auto 0px;
+	width: 500px;
+	padding: 5px;
+}
+.alert-danger {    
+    padding: 8px 5px !important;
+}
+.form-group {
+	margin-bottom: 22px;
+}
+.help-block {
+	float: left;
+	margin-bottom: 0;
+	margin-top: 5px;
+}
+.logo {
+	margin-top: -26px;
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+.login-container {
+	width: 780px;
+	height: 500px;
+	margin: 100px auto 0px;
+	background: url(../images/login-bg.png);
+	background-position: top center;
+	background-repeat: no-repeat;
+}
+.login-form {
+	float: left;
+	margin: 25px 0px 0px;
+	width: 780px;
+	height: 300px;
+	border: 1px solid #d6e1e5;
+	background: #fff;
+}
+.login-con {
+	width: 500px;
+	margin: 80px auto 0px;
+	height: 165px;
+}
+.reset-con {
+	width: 500px;
+	margin: 48px auto 0px;
+	height: 165px;
+}
+.forgot-con {
+	width: 500px;
+	margin: 82px auto 0px;
+}
+.btn-md {
+	border-radius: 5px;
+	font-size: 16px;
+	line-height: 1.33;
+	padding: 3px 16px;
+}
+.glyphicon-user1:after {
+	content: "";
+	background: url('../images/user-icon.png') no-repeat;
+	width: 22px;
+	height: 23px;
+	float: left;
+}
+.glyphicon-lock1:after {
+	content: "";
+	background: url('../images/log.png') no-repeat;
+	width: 22px;
+	height: 23px;
+	float: left;
+}
+.glyphicon-mail:after {
+	content: "";
+	background: url('../images/login-mail.png') no-repeat;
+	width: 22px;
+	height: 18px;
+	float: left;
+}
+.form-control {
+	height: 40px;
+	border: 1px solid #d6e1e5;
+}
+.input-group-addon {
+	border: 1px solid #d6e1e5;
+	background: #fff;
+	margin-left: 0px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+}
+.form-group p {
+	color: #aab2b9;
+	line-height: 25px;
+	font-size: 12px;
+}
+.form-group h4 {
+	margin: 0px 0px 10px 0px;
+}
+.form-group p.text-left {
+	color: #aab2b9;
+	line-height: 18px;
+	font-size: 13px;
+}
+.form-group p a {
+	color: #aab2b9;
+	text-decoration: underline;
+}
+.btn-secondary, .btn-secondary:hover, .btn-secondary:focus {
+	background: url(../images/btn-primary.png);
+	border-color: #53a5dd;
+	color: #fff;
+}
+.secondary-color, .secondary-color a, .secondary-color a:hover, .secondary-color a:focus {
+	color: #9a9a9a;
+	text-decoration: none;
+}
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	line-height: 58px;
+	background-color: #fff;
+	border-top: 1px solid #d6e1e5;
+}
+.accept-signup {
+	height: auto !important;
+}
+.signup-con {
+	margin: 25px auto 0px !important;
+}
+.signup-reject {
+	margin: 100px auto 0px !important;
+}
+.accept-login {
+	height: 350px;
+}
+.sign-up {
+	margin-top: 40px;
+}
+.sign-up strong {
+	font-size: 15px;
+}
+@media (max-width:992px) {
+body {
+	min-width: 992px;
+}
+.footer {
+	width: 992px;
+}
+}

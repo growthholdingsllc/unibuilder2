@@ -1,0 +1,214 @@
+[
+    {
+      "id": "dir-1",
+	  "name": "Custom Folder", 
+      "type": "dir",
+      "children":[
+		{
+			"id":"dir-2",
+			"name":"Custom Sub Folder1",
+			"type":"dir",
+			"children":[
+				{
+					"id":"file-1",
+					"name":"File1",
+					"type":"jpg",
+					"url":"javascript:void(0);"
+				},
+				{
+					"id":"file-2",
+					"name":"File2",
+					"type":"jpg",
+					"url":"javascript:void(0);"
+				},
+				{
+					"id":"dir-3",
+					"name":"Custom Sub Folder1-1",
+					"type":"dir",
+					"children":[
+						{
+							"id":"file-1",
+							"name":"File1",
+							"type":"jpg",
+							"url":"javascript:void(0);"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id":"dir-4",
+			"name":"Custom Sub Folder2",
+			"type":"dir",
+			"children":[
+				{
+					"id":"file-1",
+					"name":"File1",
+					"type":"jpg",
+					"url":"javascript:void(0);"
+				},
+				{
+					"id":"file-2",
+					"name":"File2",
+					"type":"jpg",
+					"url":"javascript:void(0);"
+				},
+				{
+					"id":"dir-5",
+					"name":"Custom Sub Folder2-1",
+					"type":"dir",
+					"children":[
+						{
+							"id":"file-1",
+							"name":"File1",
+							"type":"jpg",
+							"url":"javascript:void(0);"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id":"dir-6",
+			"name":"Custom Sub Folder3",
+			"type":"dir",
+			"children":[
+				{
+					"id":"file-1",
+					"name":"File1",
+					"type":"jpg",
+					"url":"javascript:void(0);"
+				},
+				{
+					"id":"file-2",
+					"name":"File2",
+					"type":"jpg",
+					"url":"javascript:void(0);"
+				},
+				{
+					"id":"dir-7",
+					"name":"Custom Sub Folder3-1",
+					"type":"dir",
+					"children":[
+						{
+							"id":"file-1",
+							"name":"File1",
+							"type":"jpg",
+							"url":"javascript:void(0);"
+						}
+					]
+				}
+			]
+		}
+		
+		
+	  ]
+      
+    },
+	{
+      "id": "dir-1",
+	  "name": "Custom Folder1", 
+      "type": "dir",
+      "children":[
+		{
+			"id":"dir-2",
+			"name":"Custom Sub1 Folder1",
+			"type":"dir",
+			"children":[
+				{
+					"id":"file-1",
+					"name":"File1",
+					"type":"jpg",
+					"url":"javascript:void(0);"
+				},
+				{
+					"id":"file-2",
+					"name":"File2",
+					"type":"jpg",
+					"url":"javascript:void(0);"
+				},
+				{
+					"id":"dir-3",
+					"name":"Custom Sub1 Folder1-1",
+					"type":"dir",
+					"children":[
+						{
+							"id":"file-1",
+							"name":"File1",
+							"type":"jpg",
+							"url":"javascript:void(0);"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id":"dir-4",
+			"name":"Custom Sub1 Folder2",
+			"type":"dir",
+			"children":[
+				{
+					"id":"file-1",
+					"name":"File1",
+					"type":"jpg",
+					"url":"javascript:void(0);"
+				},
+				{
+					"id":"file-2",
+					"name":"File2",
+					"type":"jpg",
+					"url":"javascript:void(0);"
+				},
+				{
+					"id":"dir-5",
+					"name":"Custom Sub1 Folder2-1",
+					"type":"dir",
+					"children":[
+						{
+							"id":"file-1",
+							"name":"File1",
+							"type":"jpg",
+							"url":"javascript:void(0);"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id":"dir-6",
+			"name":"Custom Sub1 Folder3",
+			"type":"dir",
+			"children":[
+				{
+					"id":"file-1",
+					"name":"File1",
+					"type":"jpg",
+					"url":"javascript:void(0);"
+				},
+				{
+					"id":"file-2",
+					"name":"File2",
+					"type":"jpg",
+					"url":"javascript:void(0);"
+				},
+				{
+					"id":"dir-7",
+					"name":"Custom Sub1 Folder3-1",
+					"type":"dir",
+					"children":[
+						{
+							"id":"file-1",
+							"name":"File1",
+							"type":"jpg",
+							"url":"javascript:void(0);"
+						}
+					]
+				}
+			]
+		}
+		
+		
+	  ]
+      
+    }
+]

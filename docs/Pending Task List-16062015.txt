@@ -1,0 +1,95 @@
+Thiyagu
+--------
+Pay app (Update estimate table - By Gopa) - Summary view & update , certificate
+
+Satheesh
+--------
+List page for file (warranty, schedules and selection)- in sub and owner portal
+Single file upload - builder user
+Last priority - Voucher view - document list is pending (check calculation)
+Today 4 PM
+Owner image slider
+Builder dashboard - project cost summary 
+
+Pranab
+------
+admin 
+User update --- Done
+Send activation email for builder --- Done
+forgot password --- Done
+
+sign up trends for last week - Done 
+Today 4 PM
+User Limit check based on builder plan -- Done
+
+Devansh
+-------
+Attach file in email - lead ( Gopa will help you on this at 3PM)
+File Download functionality in list page -- Completed
+Single file upload in Project - Owner profile pic --- Completed
+Today - 6PM
+Thumb creation only for image in edit page (of any file upload)
+
+Chandru
+------- -
+Sub contractor - single trade engagement & multiple file upload in certificate
+Task - File upload notification - done
+Today - 5 PM
+
+Gayathri
+--------
+Test entire portal - Builder , sub contractor and owner portal
+
+
+Sidhartha
+---------
+File upload issue- PO / CO - 
+Payment - Update in ub_po_co_payment, payment request details - Done
+Void payment - Insert to be done
+Today - 4.30 PM
+Update to estimate table - done
+File upload - Payment to be implemented
+Budget Notification - to be implemented
+PO/CO Limit check
+Fetch Document from setup and display it in payment
+
+MS
+---
+File upload
+Messages - File upload issue is there - Done to check test server
+Estimate summary and project summary
+
+--After Devansh task completion--
+Attach file in email - messages
+Attachment download - 
+
+
+GOPA
+-----
+Estimate Update - Changes in estimate, po, co , payment request, make payment and void payment
+Send mail we need to incorporate the attachment
+Fetch and thread
+Notification has to happen when an email comes to our server
+Hierarchy structuring of folders - Fixed
+DB issues - fixed
+Session issue - fixed
+
+
+SP
+----
+Baseline list in schedule
+View access for owner and sub contractor
+Gantt search filters
+----------------------------------------------------
+
+
+Username - should be taken from builder (at the time of registration)
+Payment - Builder Registration
+
+
+
+
+
+
+
+

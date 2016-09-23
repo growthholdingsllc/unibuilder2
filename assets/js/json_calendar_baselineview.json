@@ -1,0 +1,26 @@
+{
+  "data": [
+    {      
+      "schedule_item_name": "Item 1",
+      "status": "Completed",
+      "duration": "6 d (5d )",      
+      "start_date": "5/4/2015 (02/04/2015)",      
+      "end_date": "13/04/2015 (09/04/2015)",      
+      "direct_shifts": "1",      
+      "duration_change": "0 +1",      
+      "overall_slip": "0 +1",      
+      "assigned_to": "John White, Steven Smith, Geoff Marshall, Sathish, Raja, Sagayaraj"     
+    },
+	{      
+      "schedule_item_name": "Item 2",
+      "status": "In Progress",
+      "duration": "6 d (5d )",      
+      "start_date": "5/4/2015 (02/04/2015)",      
+      "end_date": "13/04/2015 (09/04/2015)",      
+      "direct_shifts": "1",      
+      "duration_change": "1 -1",      
+      "overall_slip": "1 -1",      
+      "assigned_to": "John White, Steven Smith, Geoff Marshall, Sathish, Raja, Sagayaraj"     
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "data": [
+    {      
+      "title": "Weather Disrupton",
+      "start_date": "05/04/2015",
+      "end_date": "7/04/2015",
+      "days": "2",      
+      "type": "Non Workday",      
+      "category": "Weather Delay",      
+      "same_every_year": "No"    
+    },
+	{      
+      "title": "Local Holiday",
+      "start_date": "09/04/2015",
+      "end_date": "10/04/2015",
+      "days": "1",      
+      "type": "Non Workday",      
+      "category": "Local Holiday",      
+      "same_every_year": "Yes"    
+    }
+  ]
+}

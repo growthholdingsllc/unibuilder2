@@ -1,0 +1,16 @@
+[
+	{
+		"COLUMNS":[
+			{ "title": "Name"}, 
+			{ "title": "User Type"},
+			{ "title": "Survey Field1"},
+			{ "title": "Survey Field2"},
+			{ "title": "Survey Field3"}		 
+		],
+		"DATA":[
+			["John Doe","sub","NA","NA","NA"],
+			["Jame Braite Doe","sub","NA","NA","NA"],
+			["Doe","sub","NA","NA","NA"]
+		]
+	}
+]

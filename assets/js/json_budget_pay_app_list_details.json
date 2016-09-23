@@ -1,0 +1,116 @@
+{
+  "data": [
+    {      
+      "item_name": "Estimated",
+      "item_no": "Project1",
+      "cost_code": "$983,008.64",
+      "budgeted_value": "$100,008.64",
+      "scheduled_value": "$30,008.64",
+      "prev_app": "$579,008.64",
+      "period": "$579,008.64",
+      "materials_stored": "$161,008.64",
+      "stored_till_date": "$160,008.64",
+      "work_done": "$418.88",
+	  "balance_finished": "$838,008.64",	  
+	  "retainage_percentage": "$267,008.64",
+	  "retainage_amount": "$260,008.64"
+      
+    },
+	{      
+      "item_name": "Estimated",
+      "item_no": "Project1",
+      "cost_code": "$983,008.64",
+      "budgeted_value": "$100,008.64",
+      "scheduled_value": "$30,008.64",
+      "prev_app": "$579,008.64",
+      "period": "$579,008.64",
+      "materials_stored": "$161,008.64",
+      "stored_till_date": "$160,008.64",
+      "work_done": "$418.88",
+	  "balance_finished": "$838,008.64",	  
+	  "retainage_percentage": "$267,008.64",
+	  "retainage_amount": "$260,008.64"
+      
+    },
+	{      
+      "item_name": "Estimated",
+      "item_no": "Project1",
+      "cost_code": "$983,008.64",
+      "budgeted_value": "$100,008.64",
+      "scheduled_value": "$30,008.64",
+      "prev_app": "$579,008.64",
+      "period": "$579,008.64",
+      "materials_stored": "$161,008.64",
+      "stored_till_date": "$160,008.64",
+      "work_done": "$418.88",
+	  "balance_finished": "$838,008.64",	  
+	  "retainage_percentage": "$267,008.64",
+	  "retainage_amount": "$260,008.64"
+      
+    },
+	{      
+      "item_name": "Change Orders",
+      "item_no": "Project1",
+      "cost_code": "$983,008.64",
+      "budgeted_value": "$100,008.64",
+      "scheduled_value": "$30,008.64",
+      "prev_app": "$579,008.64",
+      "period": "$579,008.64",
+      "materials_stored": "$161,008.64",
+      "stored_till_date": "$160,008.64",
+      "work_done": "$418.88",
+	  "balance_finished": "$838,008.64",	  
+	  "retainage_percentage": "$267,008.64",
+	  "retainage_amount": "$260,008.64"
+      
+    },
+	{      
+      "item_name": "Change Orders",
+      "item_no": "Project1",
+      "cost_code": "$983,008.64",
+      "budgeted_value": "$100,008.64",
+      "scheduled_value": "$30,008.64",
+      "prev_app": "$579,008.64",
+      "period": "$579,008.64",
+      "materials_stored": "$161,008.64",
+      "stored_till_date": "$160,008.64",
+      "work_done": "$418.88",
+	  "balance_finished": "$838,008.64",	  
+	  "retainage_percentage": "$267,008.64",
+	  "retainage_amount": "$260,008.64"
+      
+    },
+	{      
+      "item_name": "Change Orders",
+      "item_no": "Project1",
+      "cost_code": "$983,008.64",
+      "budgeted_value": "$100,008.64",
+      "scheduled_value": "$30,008.64",
+      "prev_app": "$579,008.64",
+      "period": "$579,008.64",
+      "materials_stored": "$161,008.64",
+      "stored_till_date": "$160,008.64",
+      "work_done": "$418.88",
+	  "balance_finished": "$838,008.64",	  
+	  "retainage_percentage": "$267,008.64",
+	  "retainage_amount": "$260,008.64"
+      
+    },
+	{      
+      "item_name": "Change Orders",
+      "item_no": "Project1",
+      "cost_code": "$983,008.64",
+      "budgeted_value": "$100,008.64",
+      "scheduled_value": "$30,008.64",
+      "prev_app": "$579,008.64",
+      "period": "$579,008.64",
+      "materials_stored": "$161,008.64",
+      "stored_till_date": "$160,008.64",
+      "work_done": "$418.88",
+	  "balance_finished": "$838,008.64",	  
+	  "retainage_percentage": "$267,008.64",
+	  "retainage_amount": "$260,008.64"
+      
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+	"data": [
+	{
+		"choice":"choice 1",
+		"addedby":"sub.png",
+		"details":"-",
+		"status":[
+		{
+			"icon":"approved_builder.png",
+			"text":"Selected by 12-07-2014 By Owner"
+		}
+		],
+		"price":"$10000.00"
+	},
+	{
+		"choice":"choice 2",
+		"addedby":"owner.png",
+		"details":"-",
+		"status":[
+		{
+			"icon":"approved_builder.png",
+			"text":"Selected by 12-07-2014 By Owner"
+		}
+		],
+		"price":"$10000.00"
+	}
+	]
+}

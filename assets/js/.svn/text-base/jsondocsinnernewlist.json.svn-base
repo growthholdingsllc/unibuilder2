@@ -1,0 +1,77 @@
+{
+  "data": [
+    { 
+                 
+      "Name": [
+	  {
+		  "title": "test1",
+		  "folder": "1",
+		  "icon": ""
+	  }
+	  ],                
+      "Contains": [
+		  {
+			  "doc_dir_con":"4",			
+			  "doc_fol_con":"4"
+		  }
+	  ],
+      "TotalSize": "177kb",	  
+      "LastUpdated": "11-19-2014 10.35 pm",     
+      "ModifiedDate": "12-19-2014 10.35 pm"     
+    },
+	{   
+	  "Name": [
+	  {
+		  "title": "test2",
+		  "folder": "0",
+		  "icon": "gallery.png"
+	  }
+	  ],               
+      "Contains": [
+		  {
+			  "doc_dir_con":"-1",			
+			  "doc_fol_con":"-1"
+		  }
+	  ],
+      "TotalSize": "7kb",	  
+      "LastUpdated": "11-19-2014 10.35 pm",     
+      "ModifiedDate": "12-19-2014 10.35 pm"      
+    },
+	{   
+	  "Name": [
+	  {
+		  "title": "test3",
+		  "folder": "0",
+		  "icon": "log-img.png"
+	  }
+	  ],               
+      "Contains": [
+		  {
+			  "doc_dir_con":"-1",			
+			  "doc_fol_con":"-1"
+		  }
+	  ],
+      "TotalSize": "1kb",	  
+      "LastUpdated": "11-19-2014 10.35 pm",     
+      "ModifiedDate": "12-19-2014 10.35 pm"     
+    },
+	{   
+	  "Name": [
+	  {
+		  "title": "test4",
+		  "folder": "0",
+		  "icon": "excel.png"
+	  }
+	  ],               
+      "Contains": [
+		  {
+			  "doc_dir_con":"-1",			
+			  "doc_fol_con":"-1"
+		  }
+	  ],
+      "TotalSize": "1kb",	  
+      "LastUpdated": "11-19-2014 10.35 pm",     
+      "ModifiedDate": "12-19-2014 10.35 pm"     
+    }
+  ]
+}

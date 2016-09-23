@@ -1,0 +1,28 @@
+{
+  "data": [
+    {      
+      "payment_title": "Payment1",
+      "amount": "$1200.00",
+      "status": "Paid",      
+      "date_paid": "11/04/2015",      
+      "paid_by": "Builder",      
+      "vocher": "001.pdf"      
+    },
+	{      
+      "payment_title": "Payment2",
+      "amount": "$1200.00",
+      "status": "Paid",      
+      "date_paid": "11/04/2015",      
+      "paid_by": "Builder",      
+      "vocher": "001.pdf"       
+    },
+	{      
+      "payment_title": "Payment3",
+      "amount": "$1200.00",
+      "status": "Paid",      
+      "date_paid": "11/04/2015",      
+      "paid_by": "Builder",      
+      "vocher": "001.pdf"      
+    }
+  ]
+}

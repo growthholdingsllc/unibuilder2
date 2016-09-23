@@ -1,0 +1,40 @@
+.scroll-pane{
+	width: 100% !important;
+	max-height: 200px;
+	overflow: auto;
+	padding: 0 5px;
+}
+.scroll-pane-bids{
+	width: 100% !important;
+	max-height: 300px;
+	overflow: auto;
+	padding: 0 5px;
+}
+.track3 {
+    width:7px;
+    background: #d9d9d9; 
+    background: rgba(0, 0, 0, 0.15);    
+    border-radius: 7px;
+	float: right;
+     margin-right: -5px;
+}
+
+.track3:hover,
+.track3.dragging {
+    background: #d9d9d9; 
+    background: rgba(0, 0, 0, 0.15);
+}
+
+.handle3 {
+    width: 7px;
+    right: 0;
+    background: #999;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 7px;
+   
+}
+
+.track3:hover .handle3,
+.track3.dragging .handle3 {
+    width: 7px;
+}

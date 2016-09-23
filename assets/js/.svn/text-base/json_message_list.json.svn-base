@@ -1,0 +1,304 @@
+{
+  "data": [
+    {      
+      "notify": "1",
+      "to": "John Doe1",
+      "subject": "Urgent! Please read",      
+      "attachment": "1",      
+      "time": "12.30 PM",
+	  "values":[
+		  {
+			"From": "Mohan Gibson [mailto: sathish.a@ttkservices.com] ",
+			"From_name": "Mohan Gibson",
+			"Sent": "23 April 2015 18:20",
+			"To": "Sathish Sagayaraj",
+			"Cc": "Ashwanth.a@getfriday.com",
+			"Subject": "RE: Regarding plumbing work",
+			"email_con": "This letter is to follow up on our March 10th phone conversation about the water heater in the rental at 222 Study Lane, which is not working. <img src='http://50.87.153.248/~wwwzeus/wp-content/uploads/2014/12/uniBUILD-logo-concepts3-2.jpg'/>",
+			"email_attach": "letter.xls",			
+			"email_attach_icon": "excel-small.png"			
+		  }
+	  ]
+    },
+	{      
+      "notify": "0",
+      "to": "John Doe2",
+      "subject": "Urgent! Please read",      
+      "attachment": "1",      
+      "time": "12.30 PM",
+	  "values":[
+		  {
+			"From": "Mohan Gibson2 [mailto: sathish.a@ttkservices.com] ",
+			"From_name": "Mohan Gibson2",
+			"Sent": "23 April 2015 18:20",
+			"To": "Sathish Sagayaraj",
+			"Cc": "Ashwanth.a@getfriday.com",
+			"Subject": "RE: Regarding plumbing work",
+			"email_con": "This letter is to follow up on our March 10th phone conversation about the water heater in the rental at 222 Study Lane, which is not working.",
+			"email_attach": "letter.xls",			
+			"email_attach_icon": "excel-small.png"			
+		  }
+	  ]
+    },
+	{      
+      "notify": "1",
+      "to": "John Doe3",
+      "subject": "Urgent! Please read",      
+      "attachment": "1",      
+      "time": "12.30 PM",
+	  "values":[
+		  {
+			"From": "Mohan Gibson [mailto: sathish.a@ttkservices.com] ",
+			"From_name": "Mohan Gibson",
+			"Sent": "23 April 2015 18:20",
+			"To": "Sathish Sagayaraj",
+			"Cc": "Ashwanth.a@getfriday.com",
+			"Subject": "RE: Regarding plumbing work",
+			"email_con": "This letter is to follow up on our March 10th phone conversation about the water heater in the rental at 222 Study Lane, which is not working.",
+			"email_attach": "letter.xls",			
+			"email_attach_icon": "excel-small.png"			
+		  }
+	  ]
+    },
+	{      
+      "notify": "1",
+      "to": "John Doe1",
+      "subject": "Urgent! Please read",      
+      "attachment": "1",      
+      "time": "12.30 PM",
+	  "values":[
+		  {
+			"From": "Mohan Gibson [mailto: sathish.a@ttkservices.com] ",
+			"From_name": "Mohan Gibson",
+			"Sent": "23 April 2015 18:20",
+			"To": "Sathish Sagayaraj",
+			"Cc": "Ashwanth.a@getfriday.com",
+			"Subject": "RE: Regarding plumbing work",
+			"email_con": "This letter is to follow up on our March 10th phone conversation about the water heater in the rental at 222 Study Lane, which is not working. <img src='http://50.87.153.248/~wwwzeus/wp-content/uploads/2014/12/uniBUILD-logo-concepts3-2.jpg'/>",
+			"email_attach": "letter.xls",			
+			"email_attach_icon": "excel-small.png"			
+		  }
+	  ]
+    },
+	{      
+      "notify": "0",
+      "to": "John Doe2",
+      "subject": "Urgent! Please read",      
+      "attachment": "1",      
+      "time": "12.30 PM",
+	  "values":[
+		  {
+			"From": "Mohan Gibson2 [mailto: sathish.a@ttkservices.com] ",
+			"From_name": "Mohan Gibson2",
+			"Sent": "23 April 2015 18:20",
+			"To": "Sathish Sagayaraj",
+			"Cc": "Ashwanth.a@getfriday.com",
+			"Subject": "RE: Regarding plumbing work",
+			"email_con": "This letter is to follow up on our March 10th phone conversation about the water heater in the rental at 222 Study Lane, which is not working.",
+			"email_attach": "letter.xls",			
+			"email_attach_icon": "excel-small.png"			
+		  }
+	  ]
+    },
+	{      
+      "notify": "1",
+      "to": "John Doe3",
+      "subject": "Urgent! Please read",      
+      "attachment": "1",      
+      "time": "12.30 PM",
+	  "values":[
+		  {
+			"From": "Mohan Gibson [mailto: sathish.a@ttkservices.com] ",
+			"From_name": "Mohan Gibson",
+			"Sent": "23 April 2015 18:20",
+			"To": "Sathish Sagayaraj",
+			"Cc": "Ashwanth.a@getfriday.com",
+			"Subject": "RE: Regarding plumbing work",
+			"email_con": "This letter is to follow up on our March 10th phone conversation about the water heater in the rental at 222 Study Lane, which is not working.",
+			"email_attach": "letter.xls",			
+			"email_attach_icon": "excel-small.png"			
+		  }
+	  ]
+    },
+	{      
+      "notify": "1",
+      "to": "John Doe1",
+      "subject": "Urgent! Please read",      
+      "attachment": "1",      
+      "time": "12.30 PM",
+	  "values":[
+		  {
+			"From": "Mohan Gibson [mailto: sathish.a@ttkservices.com] ",
+			"From_name": "Mohan Gibson",
+			"Sent": "23 April 2015 18:20",
+			"To": "Sathish Sagayaraj",
+			"Cc": "Ashwanth.a@getfriday.com",
+			"Subject": "RE: Regarding plumbing work",
+			"email_con": "This letter is to follow up on our March 10th phone conversation about the water heater in the rental at 222 Study Lane, which is not working. <img src='http://50.87.153.248/~wwwzeus/wp-content/uploads/2014/12/uniBUILD-logo-concepts3-2.jpg'/>",
+			"email_attach": "letter.xls",			
+			"email_attach_icon": "excel-small.png"			
+		  }
+	  ]
+    },
+	{      
+      "notify": "0",
+      "to": "John Doe2",
+      "subject": "Urgent! Please read",      
+      "attachment": "1",      
+      "time": "12.30 PM",
+	  "values":[
+		  {
+			"From": "Mohan Gibson2 [mailto: sathish.a@ttkservices.com] ",
+			"From_name": "Mohan Gibson2",
+			"Sent": "23 April 2015 18:20",
+			"To": "Sathish Sagayaraj",
+			"Cc": "Ashwanth.a@getfriday.com",
+			"Subject": "RE: Regarding plumbing work",
+			"email_con": "This letter is to follow up on our March 10th phone conversation about the water heater in the rental at 222 Study Lane, which is not working.",
+			"email_attach": "letter.xls",			
+			"email_attach_icon": "excel-small.png"			
+		  }
+	  ]
+    },
+	{      
+      "notify": "1",
+      "to": "John Doe3",
+      "subject": "Urgent! Please read",      
+      "attachment": "1",      
+      "time": "12.30 PM",
+	  "values":[
+		  {
+			"From": "Mohan Gibson [mailto: sathish.a@ttkservices.com] ",
+			"From_name": "Mohan Gibson",
+			"Sent": "23 April 2015 18:20",
+			"To": "Sathish Sagayaraj",
+			"Cc": "Ashwanth.a@getfriday.com",
+			"Subject": "RE: Regarding plumbing work",
+			"email_con": "This letter is to follow up on our March 10th phone conversation about the water heater in the rental at 222 Study Lane, which is not working.",
+			"email_attach": "letter.xls",			
+			"email_attach_icon": "excel-small.png"			
+		  }
+	  ]
+    },
+	{      
+      "notify": "1",
+      "to": "John Doe1",
+      "subject": "Urgent! Please read",      
+      "attachment": "1",      
+      "time": "12.30 PM",
+	  "values":[
+		  {
+			"From": "Mohan Gibson [mailto: sathish.a@ttkservices.com] ",
+			"From_name": "Mohan Gibson",
+			"Sent": "23 April 2015 18:20",
+			"To": "Sathish Sagayaraj",
+			"Cc": "Ashwanth.a@getfriday.com",
+			"Subject": "RE: Regarding plumbing work",
+			"email_con": "This letter is to follow up on our March 10th phone conversation about the water heater in the rental at 222 Study Lane, which is not working. <img src='http://50.87.153.248/~wwwzeus/wp-content/uploads/2014/12/uniBUILD-logo-concepts3-2.jpg'/>",
+			"email_attach": "letter.xls",			
+			"email_attach_icon": "excel-small.png"			
+		  }
+	  ]
+    },
+	{      
+      "notify": "0",
+      "to": "John Doe2",
+      "subject": "Urgent! Please read",      
+      "attachment": "1",      
+      "time": "12.30 PM",
+	  "values":[
+		  {
+			"From": "Mohan Gibson2 [mailto: sathish.a@ttkservices.com] ",
+			"From_name": "Mohan Gibson2",
+			"Sent": "23 April 2015 18:20",
+			"To": "Sathish Sagayaraj",
+			"Cc": "Ashwanth.a@getfriday.com",
+			"Subject": "RE: Regarding plumbing work",
+			"email_con": "This letter is to follow up on our March 10th phone conversation about the water heater in the rental at 222 Study Lane, which is not working.",
+			"email_attach": "letter.xls",			
+			"email_attach_icon": "excel-small.png"			
+		  }
+	  ]
+    },
+	{      
+      "notify": "1",
+      "to": "John Doe3",
+      "subject": "Urgent! Please read",      
+      "attachment": "1",      
+      "time": "12.30 PM",
+	  "values":[
+		  {
+			"From": "Mohan Gibson [mailto: sathish.a@ttkservices.com] ",
+			"From_name": "Mohan Gibson",
+			"Sent": "23 April 2015 18:20",
+			"To": "Sathish Sagayaraj",
+			"Cc": "Ashwanth.a@getfriday.com",
+			"Subject": "RE: Regarding plumbing work",
+			"email_con": "This letter is to follow up on our March 10th phone conversation about the water heater in the rental at 222 Study Lane, which is not working.",
+			"email_attach": "letter.xls",			
+			"email_attach_icon": "excel-small.png"			
+		  }
+	  ]
+    },
+	{      
+      "notify": "1",
+      "to": "John Doe1",
+      "subject": "Urgent! Please read",      
+      "attachment": "1",      
+      "time": "12.30 PM",
+	  "values":[
+		  {
+			"From": "Mohan Gibson [mailto: sathish.a@ttkservices.com] ",
+			"From_name": "Mohan Gibson",
+			"Sent": "23 April 2015 18:20",
+			"To": "Sathish Sagayaraj",
+			"Cc": "Ashwanth.a@getfriday.com",
+			"Subject": "RE: Regarding plumbing work",
+			"email_con": "This letter is to follow up on our March 10th phone conversation about the water heater in the rental at 222 Study Lane, which is not working. <img src='http://50.87.153.248/~wwwzeus/wp-content/uploads/2014/12/uniBUILD-logo-concepts3-2.jpg'/>",
+			"email_attach": "letter.xls",			
+			"email_attach_icon": "excel-small.png"			
+		  }
+	  ]
+    },
+	{      
+      "notify": "0",
+      "to": "John Doe2",
+      "subject": "Urgent! Please read",      
+      "attachment": "1",      
+      "time": "12.30 PM",
+	  "values":[
+		  {
+			"From": "Mohan Gibson2 [mailto: sathish.a@ttkservices.com] ",
+			"From_name": "Mohan Gibson2",
+			"Sent": "23 April 2015 18:20",
+			"To": "Sathish Sagayaraj",
+			"Cc": "Ashwanth.a@getfriday.com",
+			"Subject": "RE: Regarding plumbing work",
+			"email_con": "This letter is to follow up on our March 10th phone conversation about the water heater in the rental at 222 Study Lane, which is not working.",
+			"email_attach": "letter.xls",			
+			"email_attach_icon": "excel-small.png"			
+		  }
+	  ]
+    },
+	{      
+      "notify": "1",
+      "to": "John Doe3",
+      "subject": "Urgent! Please read",      
+      "attachment": "1",      
+      "time": "12.30 PM",
+	  "values":[
+		  {
+			"From": "Mohan Gibson [mailto: sathish.a@ttkservices.com] ",
+			"From_name": "Mohan Gibson",
+			"Sent": "23 April 2015 18:20",
+			"To": "Sathish Sagayaraj",
+			"Cc": "Ashwanth.a@getfriday.com",
+			"Subject": "RE: Regarding plumbing work",
+			"email_con": "This letter is to follow up on our March 10th phone conversation about the water heater in the rental at 222 Study Lane, which is not working.",
+			"email_attach": "letter.xls",			
+			"email_attach_icon": "excel-small.png"			
+		  }
+	  ]
+    }
+  ]
+}

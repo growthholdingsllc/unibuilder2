@@ -1,0 +1,28 @@
+{
+  "data": [
+    {      
+      "schedule_item_name": "Flooring",
+      "status": "In progress",
+      "phase": "Not Assigned",      
+      "start": "5/4/2015",      
+      "finish": "7/4/2015",      
+      "assignees": "Mark Waugh, Steven King, Sathish, Raja, sagayaraj"
+    },
+	{      
+      "schedule_item_name": "ceiling",
+      "status": "Completed",
+      "phase": "Secondary",      
+      "start": "1/4/2015",      
+      "finish": "5/4/2015",      
+      "assignees": "No Assignees"
+    },
+	{      
+      "schedule_item_name": "Flooring",
+      "status": "In progress",
+      "phase": "Not Assigned",      
+      "start": "5/4/2015",      
+      "finish": "7/4/2015",      
+      "assignees": "Mark Waugh, Steven King"
+    }
+  ]
+}

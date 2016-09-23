@@ -1,0 +1,124 @@
+<?php 
+$button_name = '';
+$button_text = '';
+$button_name2 = '';
+$button_text2 = '';
+if(isset($result_data['status']) && $result_data['status'] == 'Draft'){
+	$button_name = 'Release';
+	$button_text = 'Release';
+	$button_name2 = 'Cancelled';
+	$button_text2 = 'Cancel Payapp';	
+}
+else if(isset($result_data['status']) && $result_data['status'] == 'Released')
+{
+	$button_name = 'Funded';
+	$button_text = 'Funded';
+	$button_name2 = 'Cancelled';
+	$button_text2 = 'Cancel Payapp';
+}
+if($button_name!='')
+{
+	if(isset($this->user_account_type) && $this->user_account_type != OWNER) 
+	{
+		if(isset($this->project_status) && $this->project_status != 'Closed' && $this->project_status != 'Disabled')
+		{
+?>
+	<button class="sprite" id="btn_payapp_status" value="<?php echo $button_name;?>"><?php echo $button_text;?></button>
+<?php 
+			if($button_name2!='' && $button_text2!='')
+			{
+?>	
+	<button class="sprite" id="btn_payapp_status2" value="<?php echo $button_name2;?>"><?php echo $button_text2;?></button>
+<?php	
+			}
+		}
+	}
+} 
+
+?>	
+<span class="status_payapp"><strong>Status:</strong><?php echo (isset($result_data['status']) && $result_data['status'] !='')?$result_data['status']:'No Status';?> 
+</span>
+<?php 
+if(isset($result_data['status']) && ($result_data['status'] == 'Released' || $result_data['status'] == 'Funded'))
+{	
+?>
+<!-- <a href="<?php echo base_url().$this->crypt->encrypt('prints/pay_app_cost_view/'.$result_data['ub_payapp_id']); ?>" class="pull-right" target="_blank" ><button class="btn btn-blue"><img class="uni_print" src="<?php echo IMAGESRC.'strip.gif'; ?>" /> Print</button></a> -->
+
+<button class="btn btn-blue" id="print_pay_app_cost_view"><img class="uni_print" src="<?php echo IMAGESRC.'strip.gif'; ?>" /> Print</button>
+<?php 
+}
+?>
+<input type="hidden" name="pay_app_id" id="pay_app_id" value="<?php echo (isset($result_data['ub_payapp_id']) && $result_data['ub_payapp_id'] > 0)?$result_data['ub_payapp_id']:0;?>"/>
+
+<input type="hidden" name="hide_payapp_status" id="hide_payapp_status" value="<?php echo (isset($result_data['status']) && $result_data['status'] !='')?$result_data['status']:'No Status';?>"/>
+
+<input type="hidden" name="include_val" id="include_val" value="No">
+
+<div class="modal fade confirmModal" id="confirmModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <h4>Include data with 0.00 while printing?  
+      </h4>
+      <div class="modal-body" id="checkbox_areas">
+	  <style>
+	  <link rel="stylesheet" href="<?php echo CSSSRC.'red.min.css'; ?>">
+	  </style>
+        <div class="row m-top">
+          <div class="col-xs-12">
+            <div class="modal-con">              
+              <div class="row col-xs-12">
+              <!--<input type="checkbox" id="include">-->
+			  <a href="javascript:void(0);" class="unchecked_markeds pull-left"><img alt="home" src="<?php echo IMAGESRC.'box-1s.png'?>" border="0"/></a>	
+			 <a href="javascript:void(0);" class="checked_markeds pull-left"><img alt="home" src="<?php echo IMAGESRC.'green_tickboxs.png'?>" border="0"/></a>	
+			 <input type="hidden" id="marked-lists" name="marked-lists" value="No" />
+              <!-- <input type="hidden" name="include_val" id="include_val" value="No"> -->                            
+           <!--  <button class="btn btn-gray m-left-1 pull-right" type="button" data-dismiss="modal">
+               <img src="<?php echo IMAGESRC.'strip.gif'; ?>" class="uni_cancel_new"/> CANCEL
+            </button>  --> 
+            <button class="btn btn-blue m-left-1 pull-right" type="button" id="delete_confirm">
+               <img src="<?php echo IMAGESRC.'strip.gif'; ?>" class="uni_approved"/> OK
+            </button>            
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>  
+</div>
+<script type="text/javascript" src="http://10.0.0.149/chandra.m/unidevnew/assets/js/icheck.min.js"></script>
+<script>
+$(function() {
+	$('.checked_markeds').hide();
+	var mark_checks = $('#marked-lists').val();
+
+	if(mark_checks === 'Yes'){
+		$('.checked_markeds').show();
+		$('.unchecked_markeds').hide();
+	}
+	else{
+		$('.checked_markeds').hide();
+		$('.unchecked_markeds').show();
+	}
+	$('.unchecked_markeds').click(function(){
+		$(this).hide();
+		$('.checked_markeds').show();
+		$('#marked-lists').attr("checked", true);
+		$('#marked-lists').val("Yes");
+		$('.check-list-box-hidden').val("Yes");
+		/* $('.check-list-box input[type="checkbox"]').attr('checked',true);
+		$('.check-list-box input[type="checkbox"]').parent().find('icheckbox_square-red').addClass('checked');  */
+		$('.check-list-box').iCheck('check');
+		$('.check-list-box').parent('.icheckbox_square-red').addClass('checked'); 
+	});
+	$('.checked_markeds').click(function(){
+		$(this).hide();
+		$('.unchecked_markeds').show();
+		$('#marked-lists').attr("checked", false);
+		$('#marked-lists').val("No");
+		$('.check-list-box-hidden').val("No");
+		$('.check-list-box').iCheck('uncheck');
+		$('.check-list-box').parent('.icheckbox_square-red').removeClass('checked');
+	});
+});
+</script> 

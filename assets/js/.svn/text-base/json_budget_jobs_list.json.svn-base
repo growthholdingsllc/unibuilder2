@@ -1,0 +1,50 @@
+{
+  "data": [
+    {      
+      "cost_code": "1",
+      "cost_code_item": "Interior Design Consulting",
+      "budget": "$200,00.00",
+      "award": "$175,0.00",
+      "po": "1",
+      "change_order": "0 ($1500.00)",
+      "co": "$150.00",
+      "revised_contract": "$350.00",
+      "overhead_inhouse": "$2000.88",
+	  "estimated_profit": "$838,008.64",	  
+	  "billed_client_date": "$267,008.64",
+	  "paid_client_date": "$260,008.64",
+	  "unpaid_client_billings": "$123,008.64",
+	  "balance_bill_client": "$129,008.64",
+	  "invoiced_sub_date": "$25,008.64",
+	  "amount_paid_sub": "$466,008.64",
+	  "balance_invoiced_sub": "$125,008.84",
+	  "total_balance_owned_sub": "$255,008.84",
+	  "total_cost": "$1650.000",
+	  "profit_to_date": "$350.00",
+	  "overall_profit": "$350.00"      
+    },
+	{      
+      "cost_code": "2",
+      "cost_code_item": "Interior Design Consulting",
+      "budget": "$200,00.00",
+      "award": "$175,0.00",
+      "po": "1",
+      "change_order": "1 ($1500.00)",
+      "co": "$150.00",
+      "revised_contract": "$350.00",
+      "overhead_inhouse": "$2000.88",
+	  "estimated_profit": "$838,008.64",	  
+	  "billed_client_date": "$267,008.64",
+	  "paid_client_date": "$260,008.64",
+	  "unpaid_client_billings": "$123,008.64",
+	  "balance_bill_client": "$129,008.64",
+	  "invoiced_sub_date": "$25,008.64",
+	  "amount_paid_sub": "$466,008.64",
+	  "balance_invoiced_sub": "$125,008.84",
+	  "total_balance_owned_sub": "$255,008.84",
+	  "total_cost": "$1650.000",
+	  "profit_to_date": "$350.00",
+	  "overall_profit": "$350.00"      
+    }
+  ]
+}

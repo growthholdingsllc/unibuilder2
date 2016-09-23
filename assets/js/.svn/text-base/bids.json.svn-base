@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "checkbox": "<input type=\"checkbox\">",
+      "PackageTitle": "Second Floor Furniture",
+      "Files": "-",
+      "Responses": "0",
+      "Accepted": "0",
+      "Released": "11-15-2014",
+      "Deadline": "11-16-2014 7:30 AM",
+      "Status": "open",
+	  "values":[
+		  {
+			"Subject": "Metal Works",
+			"InnerFiles": "-",
+			"SubViewed": "1-24-2015 5:25 AM",
+			"WillBid": "Yes",
+			"Submitted": "1-24-2015 5:20 AM",
+			"BidAmount": "$1,100.00",
+			"InnerStatus": "Accepted",
+			"RelatedPO": "Second Floor Furniture"			
+		  },
+		  {
+			"Subject": "Metal Works",
+			"InnerFiles": "-",
+			"SubViewed": "1-24-2015 5:25 AM",
+			"WillBid": "Yes",
+			"Submitted": "1-24-2015 5:20 AM",
+			"BidAmount": "$1,100.00",
+			"InnerStatus": "Accepted",
+			"RelatedPO": "Second Floor Furniture"			
+		  },
+		  {
+			"Subject": "Metal Works",
+			"InnerFiles": "-",
+			"SubViewed": "1-24-2015 5:25 AM",
+			"WillBid": "Yes",
+			"Submitted": "1-24-2015 5:20 AM",
+			"BidAmount": "$1,100.00",
+			"InnerStatus": "Accepted",
+			"RelatedPO": "Second Floor Furniture"			
+		  },
+		  {
+			"Subject": "Metal Works",
+			"InnerFiles": "-",
+			"SubViewed": "1-24-2015 5:25 AM",
+			"WillBid": "Yes",
+			"Submitted": "1-24-2015 5:20 AM",
+			"BidAmount": "$1,100.00",
+			"InnerStatus": "Accepted",
+			"RelatedPO": "Second Floor Furniture"			
+		  },
+		  {
+			"Subject": "Metal Works",
+			"InnerFiles": "-",
+			"SubViewed": "1-24-2015 5:25 AM",
+			"WillBid": "Yes",
+			"Submitted": "1-24-2015 5:20 AM",
+			"BidAmount": "$1,100.00",
+			"InnerStatus": "Accepted",
+			"RelatedPO": "Second Floor Furniture"			
+		  }
+	  ],
+	  "Total": "$1,100.00"
+    },
+    {
+      "checkbox": "<input type=\"checkbox\">",
+      "PackageTitle": "Second Floor Furniture",
+      "Files": "-",
+      "Responses": "0",
+      "Accepted": "0",
+      "Released": "11-15-2014",
+      "Deadline": "11-16-2014 7:30 AM",
+      "Status": "open",
+	  "values":[
+		  {
+			"Subject": "Metal Works",
+			"InnerFiles": "-",
+			"SubViewed": "1-24-2015 5:25 AM",
+			"WillBid": "Yes",
+			"Submitted": "1-24-2015 5:20 AM",
+			"BidAmount": "$1,100.00",
+			"InnerStatus": "Accepted",
+			"RelatedPO": "Second Floor Furniture"			
+		  },
+		  {
+			"Subject": "Metal Works",
+			"InnerFiles": "-",
+			"SubViewed": "1-24-2015 5:25 AM",
+			"WillBid": "Yes",
+			"Submitted": "1-24-2015 5:20 AM",
+			"BidAmount": "$1,100.00",
+			"InnerStatus": "Accepted",
+			"RelatedPO": "Second Floor Furniture"			
+		  },
+		  {
+			"Subject": "Metal Works",
+			"InnerFiles": "-",
+			"SubViewed": "1-24-2015 5:25 AM",
+			"WillBid": "Yes",
+			"Submitted": "1-24-2015 5:20 AM",
+			"BidAmount": "$1,100.00",
+			"InnerStatus": "Accepted",
+			"RelatedPO": "Second Floor Furniture"			
+		  },
+		  {
+			"Subject": "Metal Works",
+			"InnerFiles": "-",
+			"SubViewed": "1-24-2015 5:25 AM",
+			"WillBid": "Yes",
+			"Submitted": "1-24-2015 5:20 AM",
+			"BidAmount": "$1,100.00",
+			"InnerStatus": "Accepted",
+			"RelatedPO": "Second Floor Furniture"			
+		  },
+		  {
+			"Subject": "Metal Works",
+			"InnerFiles": "-",
+			"SubViewed": "1-24-2015 5:25 AM",
+			"WillBid": "Yes",
+			"Submitted": "1-24-2015 5:20 AM",
+			"BidAmount": "$1,100.00",
+			"InnerStatus": "Accepted",
+			"RelatedPO": "Second Floor Furniture"			
+		  }
+	  ],
+	  "Total": "$1,100.00"
+    }
+  ]
+}

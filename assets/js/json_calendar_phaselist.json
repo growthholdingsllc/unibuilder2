@@ -1,0 +1,48 @@
+{
+	"data":[
+	{
+		"phase_title": "Unassigned Schedule Items",
+		"start_date": "05/04/2015",
+		"end_date": "09/04/2015",
+		"no_of_associated_items": "2",
+		"completed_items": "1",
+		"phase_status": "IN Progress",
+		"values":[
+		{
+			"schedule_item_name": "Flooring",
+			"duration_in_days": "4",
+			"val_start_date": "5/4/2015",
+			"finish_date": "7/4/2015",
+			"status": "In progress",
+			"assignees": "Mark Waugh, Steven King, Sathish, Raja"
+		},
+		{
+			"schedule_item_name": "Flooring",
+			"duration_in_days": "4",
+			"val_start_date": "5/4/2015",
+			"finish_date": "7/4/2015",
+			"status": "In progress",
+			"assignees": "Mark Waugh, Steven King, Sathish, Raja"
+		}
+		]
+	},
+	{
+		"phase_title": "Phase 1",
+		"start_date": "09/04/2015",
+		"end_date": "07/05/2015",
+		"no_of_associated_items": "9",
+		"completed_items": "4",
+		"phase_status": "IN Progress",
+		"values":[
+		{
+			"schedule_item_name": "ceiling",
+			"duration_in_days": "5",
+			"val_start_date": "1/4/2015",
+			"finish_date": "5/4/2015",
+			"status": "Completed",
+			"assignees": "Mark Waugh, Steven King, Sathish, Raja"
+		}
+		]
+	}
+	]
+}

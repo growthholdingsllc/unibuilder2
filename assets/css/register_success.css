@@ -1,0 +1,134 @@
+* {
+	border: 0px;
+	outline: 0px !important;
+	margin: 0;
+	padding: 0
+}
+html {
+	position: relative;
+	min-height: 100%;
+}
+body {
+	padding: 0px;
+	margin-bottom: 60px;		
+}
+.loadingDiv{	
+	z-index:9999;
+	width:100%;
+	height:100%;
+    opacity: 0.52;
+    filter: alpha(opacity=52); 
+	pointer-events: none;	
+}
+.loadingDiv:before{
+	content:'';
+	background: url(../images/loader.GIF) center no-repeat;
+	width:100%;
+	height:100%;
+	position:absolute;
+	z-index: 9999;
+}
+.uni_message .alerts{
+	padding: 10px;
+	border-radius: 4px;
+}
+.error-message{
+	display:none;
+}
+.form-register{
+width:600px;
+margin:0px auto;
+padding:50px 20px;
+
+}
+.control-label{
+text-align:left !important;
+font-weight:normal !important;
+}
+.blue-txt{
+color:#0775B4;
+}
+.ack-txt{
+line-height:10px;
+
+}
+p{
+color:#000 !important;
+}
+.red-txt{
+color:#ff0000;
+}
+h4{
+color:#000;
+}
+.logo{
+padding:18px 0px 20px  120px;
+text-align:left;
+
+}
+.logo img{
+max-width:100%;
+height:auto;
+}
+.btn-blue, .btn-blue:focus, .btn-blue:hover{
+	background:#0775b4 !important;
+	color:#fff !important;
+	line-height: 17px;
+}
+.footer{
+position: absolute;
+bottom: 0;
+width: 100%;
+height:60px;
+background: #2D2D2D;
+padding:25px 0px;
+border-top: 1px solid #d6e1e5;
+
+
+}
+.blue-txt{
+color:#0775B4;
+}
+.ack-txt{
+line-height:10px;
+font-size:16px;
+color:#000;
+}
+
+.ack-txt a,.ack-txt a:hover,.ack-txt a:visited{
+color:#5D72A2 !important;
+}
+.divider{
+border-bottom: 1px solid #D5D1C9;
+position: absolute;
+top: 100px;
+width: 100%;
+}
+.first-footer{
+
+}
+input[type="radio"]{
+margin-top:10px;
+}
+a,a:hover{
+color:#fff;
+text-decoration:none;
+}
+.btn-secondary, .btn-secondary:hover, .btn-secondary:focus {
+background: url("../images/btn-primary.png") repeat-x;
+border-color: #53a5dd;
+color: #fff;
+}
+.btn-md {
+border-radius: 5px;
+font-size: 16px;
+line-height: 1.33;
+padding: 3px 16px;
+}.btn-primary, .btn-primary:hover, .btn-primary:focus {
+background:#d6e1e5;
+border-color: #d2d2d2;
+color: #5e696d;
+}
+.m-top{
+margin-top:10px;
+}

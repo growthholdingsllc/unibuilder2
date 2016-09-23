@@ -1,0 +1,34 @@
+{
+    "data": [
+        [
+            "Ranjith P",
+            "ranjith@getfriday.com",
+            "+91-9876543210",
+            "Active"
+        ],
+        [
+            "ABC",
+            "abc.p@getfriday.com",
+            "+91-9876543210",
+            "Active"
+        ],
+		        [
+            "Mohan P",
+            "mohan.p@getfriday.com",
+            "+91-9876543210",
+            "Active"
+        ],
+		        [
+            "Sathish.a",
+            "sathish.p@getfriday.com",
+            "+91-9876543210",
+            "Active"
+        ],
+		        [
+            "Ramamani",
+            "ramamani@getfriday.com",
+            "+91-9876543210",
+            "Active"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+<?php
+/** 
+ * Budget Model
+ * 
+ * @package: Budget Model
+ * @subpackage: Budget Model 
+ * @category: Budget
+ * @author: Gopakumar, Thiyagaraj, Gayathri, MS, Sidhartha, Satheesh
+ * @createdon(DD-MM-YYYY): 29-05-2015
+*/
+class Mod_budget extends UNI_Model
+{
+
+}

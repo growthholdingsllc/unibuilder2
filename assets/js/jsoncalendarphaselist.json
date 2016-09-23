@@ -1,0 +1,106 @@
+{
+	"data":[
+	{
+		"PhaseTitle": "Unassigned Schedule Items",
+		"StartDate": "10-20-2014",
+		"EndDate": "10-20-2014",
+		"Status": "In Progress",
+		"items": "155",
+		"Completed": "1",
+		"values":[
+		{
+			"sitem": "Pre-Construction",
+			"dur": "1",
+			"start": "10-20-2014",
+			"finish": "10-20-2014",
+			"completed": "<input type=\"checkbox\"/>",
+			"assigned": "N/A"
+		},
+		{
+			"sitem": "Check list Items before Set Forms",
+			"dur": "23",
+			"start": "10-20-2014",
+			"finish": "10-20-2014",
+			"completed": "<input type=\"checkbox\"/>",
+			"assigned": "N/A"
+		},
+		{
+			"sitem": "Set Batter Boards & Grade Lines",
+			"dur": "3",
+			"start": "10-20-2014",
+			"finish": "10-20-2014",
+			"completed": "<input type=\"checkbox\"/>",
+			"assigned": "N/A"
+		}
+		]
+	},
+	{		
+		"PhaseTitle": "Unassigned Schedule Items",
+		"StartDate": "10-20-2014",
+		"EndDate": "10-20-2014",
+		"Status": "In Progress",
+		"items": "155",
+		"Completed": "1",
+		"values":[
+		{
+			"sitem": "Pre-Construction",
+			"dur": "1",
+			"start": "10-20-2014",
+			"finish": "10-20-2014",
+			"completed": "<input type=\"checkbox\"/>",
+			"assigned": "N/A"
+		},
+		{
+			"sitem": "Check list Items before Set Forms",
+			"dur": "23",
+			"start": "10-20-2014",
+			"finish": "10-20-2014",
+			"completed": "<input type=\"checkbox\"/>",
+			"assigned": "N/A"
+		},
+		{
+			"sitem": "Set Batter Boards & Grade Lines",
+			"dur": "3",
+			"start": "10-20-2014",
+			"finish": "10-20-2014",
+			"completed": "<input type=\"checkbox\"/>",
+			"assigned": "N/A"
+		}
+		]
+	},
+	{
+		"PhaseTitle": "Unassigned Schedule Items",
+		"StartDate": "10-20-2014",
+		"EndDate": "10-20-2014",
+		"Status": "In Progress",
+		"items": "155",
+		"Completed": "1",
+		"values":[
+		{
+			"sitem": "Pre-Construction",
+			"dur": "1",
+			"start": "10-20-2014",
+			"finish": "10-20-2014",
+			"completed": "<input type=\"checkbox\"/>",
+			"assigned": "N/A"
+		},
+		{
+			"sitem": "Check list Items before Set Forms",
+			"dur": "23",
+			"start": "10-20-2014",
+			"finish": "10-20-2014",
+			"completed": "<input type=\"checkbox\"/>",
+			"assigned": "N/A"
+		},
+		{
+			"sitem": "Set Batter Boards & Grade Lines",
+			"dur": "3",
+			"start": "10-20-2014",
+			"finish": "10-20-2014",
+			"completed": "<input type=\"checkbox\"/>",
+			"assigned": "N/A"
+		}
+		]
+	}
+	]
+}
